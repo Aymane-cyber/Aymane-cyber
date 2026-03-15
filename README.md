@@ -65,12 +65,15 @@
 
 <p align="center">
 
-<a href="https://github.com/aelkahlaoui72">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/Aymane-cyber">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:aelkahlaoui72@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
----
 
 ⭐ From **Aymane El Kahlaoui**
