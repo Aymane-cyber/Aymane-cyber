@@ -26,7 +26,11 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,git,github,vscode,flutter,dart,kotlin,androidstudio" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,flutter,dart,kotlin,androidstudio,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/XML-0060ac?style=for-the-badge&logo=xml&logoColor=white"/>
 
 </p>
 
