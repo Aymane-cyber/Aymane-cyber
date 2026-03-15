@@ -1,36 +1,31 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aymane.aymane">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aelkahlaoui72.aelkahlaoui72">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aymane+El+Kahlaoui;Web+Developer+from+Morocco;Nice+to+meet+you!&center=true&size=30">
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+there+👋;I'm+Aymane+El+Kahlaoui;Web+Developer;Flutter+Developer;Always+Learning+New+Things" />
 </h1>
 
-<h3 align="center">💻 Web Developer from Morocco 🇲🇦</h3>
-
-<p align="center">
-Passionate about building modern web applications and learning new technologies.
-</p>
+<h3 align="center">
+💻 Web & Mobile Developer from Morocco 🇲🇦
+</h3>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 👋 Hi, I'm **Aymane El Kahlaoui**
-- 💻 **Web Developer**
-- 🌍 From **Morocco**
-- 🚀 I love building **web applications and modern interfaces**
-- 📚 Currently learning **advanced web development**
-- ⚡ Interested in **JavaScript, React, and backend technologies**
-- 💬 Ask me about **Web Development**
+- 💻 Web Developer & Flutter Developer
+- 📍 From Morocco
+- 🚀 Passionate about building modern web and mobile apps
+- 📚 Currently learning **Flutter & Dart**
+- ⚡ Always improving my programming skills
 
 ---
 
-## 🔥 Languages & Tools
+# 🛠️ Technologies & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,git,github,vscode,flutter,dart,kotlin" />
 
 </p>
 
@@ -40,19 +35,29 @@ Passionate about building modern web applications and learning new technologies.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aelkahlaoui72&show_icons=true&theme=react&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aelkahlaoui72&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelkahlaoui72&layout=compact&theme=react&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelkahlaoui72&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Activity
+# 🔥 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aelkahlaoui72&theme=react-dark&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aelkahlaoui72&theme=tokyo-night&hide_border=true"/>
+
 </p>
+
+---
+
+# 🚀 Currently Learning
+
+- Flutter
+- Dart
+- Mobile App Development
 
 ---
 
