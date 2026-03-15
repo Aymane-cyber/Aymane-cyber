@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aelkahlaoui72.aelkahlaoui72">
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+there+👋;I'm+Aymane+El+Kahlaoui;Web+Developer+&&+Mobile App Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hello+there+👋;I'm+Aymane+El+Kahlaoui;Web+Developer;Mobile+App+Developer;Always+Learning+New+Things" />
 </h1>
 
 <h3 align="center">
@@ -13,7 +13,7 @@
 # 👨‍💻 About Me
 
 - 👋 Hi, I'm **Aymane El Kahlaoui**
-- 💻 Web Developer |c
+- 💻 Web Developer | Mobile App Developer
 - 📍 From Morocco
 - 🚀 Passionate about building modern web and mobile apps
 - 📚 Currently learning **Flutter & Dart**
