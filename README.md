@@ -23,9 +23,11 @@
 
 # 🛠️ Technologies & Tools
 
+# 🛠️ Technologies & Tools
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,git,github,vscode,flutter,dart,kotlin" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,git,github,vscode,flutter,dart,kotlin,androidstudio" />
 
 </p>
 
