@@ -16,7 +16,6 @@
 - 💻 Web Developer | Mobile App Developer
 - 📍 From Morocco
 - 🚀 Passionate about building modern web and mobile apps
-- 📚 Currently learning **Flutter & Dart**
 - ⚡ Always improving my programming skills
 
 ---
@@ -61,8 +60,7 @@
 
 # 🚀 Currently Learning
 
-- Flutter
-- Dart
+- Web full stack
 - Mobile App Development
 
 ---
@@ -78,12 +76,6 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aelkahlaoui72@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://instagram.com/aymane._.elka">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-
 </p>
 
 
